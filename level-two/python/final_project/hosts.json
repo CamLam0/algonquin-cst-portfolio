@@ -1,0 +1,51 @@
+[
+    {
+        "hostname": "www",
+        "domain": "happy.lab",
+        "ipv4": "172.16.30.101",
+        "port": "443",
+        "location": "wt306"
+    },
+    {
+        "hostname": "dns",
+        "domain": "happy.lab",
+        "ipv4": "172.16.30.102",
+        "port": "53",
+        "location": "wt306"
+    },
+    {
+        "hostname": "imap",
+        "domain": "peachy.lab",
+        "ipv4": "172.16.30.103",
+        "port": "143",
+        "location": "wt308"
+    },
+    {
+        "hostname": "mail",
+        "domain": "peachy.lab",
+        "ipv4": "172.16.30.103",
+        "port": "25",
+        "location": "wt308"
+    },
+    {
+        "hostname": "ldap",
+        "domain": "happy.lab",
+        "ipv4": "172.16.30.104",
+        "port": "389",
+        "location": "wt308"
+    },
+    {
+        "hostname": "ssh",
+        "domain": "happy.lab",
+        "ipv4": "172.16.30.104",
+        "port": "22",
+        "location": "wt308"
+    },
+    {
+        "hostname": "cam",
+        "domain": "mysite.com",
+        "ipv4": "1.2.3.4",
+        "port": "111000",
+        "location": "home"
+    }
+]
